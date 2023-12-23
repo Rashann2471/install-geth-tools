@@ -10,3 +10,4 @@ updates:
   - package-ecosystem: npm
     directory: /
     schedule: {interval: monthly}
+https://github.com/ethereum/go-ethereum/tree/f1794ba2788baf34489847bfa9ca00e067507db0
